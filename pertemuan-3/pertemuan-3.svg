@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24748737"
-     inkscape:cx="1932.9564"
-     inkscape:cy="-339.75331"
+     inkscape:zoom="0.35"
+     inkscape:cx="1630.8039"
+     inkscape:cy="-351.73166"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -326,24 +326,24 @@
        id="rect976"
        width="105.83333"
        height="111.88095"
-       x="-191.99356"
-       y="498.21829"
+       x="-246.78555"
+       y="483.58929"
        ry="17.105261"
-       transform="rotate(-24.933221)" />
+       transform="rotate(-32.098928)" />
     <use
        x="0"
        y="0"
        xlink:href="#rect976"
        id="use978"
-       transform="translate(152.87817,-1.0690781)"
+       transform="translate(137.91108)"
        width="100%"
        height="100%" />
     <use
        x="0"
        y="0"
-       xlink:href="#rect976"
-       id="use982"
-       transform="translate(304.68726,-10.690781)"
+       xlink:href="#use978"
+       id="use990"
+       transform="translate(145.14286)"
        width="100%"
        height="100%" />
   </g>
